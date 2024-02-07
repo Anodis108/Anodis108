@@ -12,3 +12,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anodis108&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+<a href="https://github.com/uvipen/QuickDraw/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+</a>
