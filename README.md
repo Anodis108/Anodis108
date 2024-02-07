@@ -22,3 +22,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Anodis108&repo=NCKH_Hand_gesture_recognition_Mediapipe&theme=synthwave" />
 </a>
+
+<a href="https://github.com/Anodis108/Exam_Dao_Senpai">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Anodis108&repo=Exam_Dao_Senpai&theme=synthwave" />
+</a>
+
