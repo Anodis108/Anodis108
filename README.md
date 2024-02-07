@@ -13,7 +13,12 @@
 [![](https://visitcount.itsvg.in/api?id=Anodis108&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/Anodis108/Car_predict_by_RandomForest">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Car_predict_by_RandomForest&theme=radical" />
+</a>
+
+<a href="https://github.com/Anodis108/NCKH_Hand_gesture_recognition_Mediapipe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=NCKH_Hand_gesture_recognition_Mediapipe&theme=synthwave" />
 </a>
