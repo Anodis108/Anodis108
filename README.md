@@ -8,7 +8,7 @@
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Anodis108&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anodis108&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anodis108&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anodis108&show_icons=true&locale=en" alt="anodis108" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anodis108&locale=en" alt="anodis108" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anodis108&icon=0&color=0)](https://visitcount.itsvg.in)
