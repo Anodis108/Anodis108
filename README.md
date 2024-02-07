@@ -8,12 +8,7 @@
 
 | ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Anodis108&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Anodis108&theme=synthwave&hide_border=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anodis108&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
-<table style="border-collapse: collapse;">
-  <tr>
-    <td>![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Anodis108&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en)</td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anodis108&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</td>
-  </tr>
-</table>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anodis108&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -21,7 +16,7 @@
 ---
 <a href="https://github.com/Anodis108/Car_predict_by_RandomForest">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Anodis108&repo=Car_predict_by_RandomForest&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Anodis108&repo=Car_predict_by_RandomForest&theme=synthwave" />
 </a>
 
 <a href="https://github.com/Anodis108/NCKH_Hand_gesture_recognition_Mediapipe">
