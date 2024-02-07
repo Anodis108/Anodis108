@@ -15,10 +15,10 @@
 ---
 <a href="https://github.com/Anodis108/Car_predict_by_RandomForest">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Car_predict_by_RandomForest&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Anodis108&repo=Car_predict_by_RandomForest&theme=radical" />
 </a>
 
 <a href="https://github.com/Anodis108/NCKH_Hand_gesture_recognition_Mediapipe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=NCKH_Hand_gesture_recognition_Mediapipe&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Anodis108&repo=NCKH_Hand_gesture_recognition_Mediapipe&theme=synthwave" />
 </a>
