@@ -7,7 +7,7 @@
 # 📊GitHub Stats :
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Anodis108&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anodis108&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anodis108&theme=radical&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ---
