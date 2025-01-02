@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Dang Dong</h1>
-<h3 align="center">troduce
+<h3 align="center">
 I am an optimistic, sociable, and fun person. I am always enthusiastic at work and eager to learn skills and experiences to develop myself. Just like I am always strict with myself to improve myself. I always try and find a way for myself to get the job done in the best way possible. Everyone has flaws and I'm improving every day to be the best version I can be.</h3>
 <p align="left">
 </p>
